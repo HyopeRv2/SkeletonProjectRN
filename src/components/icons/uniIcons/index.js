@@ -1,0 +1,9 @@
+export {default as MiddleAgeArcher} from './MiddleAgeArcher';
+export {default as MiddleAgeArchery} from './MiddleAgeArchery';
+export {default as MiddleAgeAxe} from './MiddleAgeAxe';
+export {default as MiddleAgeSign} from './MiddleAgeSign';
+export {default as MiddleAgeSpearMan} from './MiddleAgeSpearMan';
+export {default as MiddleAgeSwords} from './MiddleAgeSwords';
+export {default as MiddleAgeThrone} from './MiddleAgeThrone';
+export {default as MiddleAgeVanguard} from './MiddleAgeVanguard';
+export {default as MiddleAgeWarHorse} from './MiddleAgeWarHorse';

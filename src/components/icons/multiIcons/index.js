@@ -1,0 +1,9 @@
+export {default as CircusAssistan} from './CircusAssistan';
+export {default as CircusCannonBallMan} from './CircusCannonBallMan';
+export {default as CircusClownFirst} from './CircusClownFirst';
+export {default as CircusClownFourth} from './CircusClownFourth';
+export {default as CircusClownSecond} from './CircusClownSecond';
+export {default as CircusClownThird} from './CircusClownThird';
+export {default as CircusMagician} from './CircusMagician';
+export {default as CircusMaster} from './CircusMaster';
+export {default as CircusStrongMan} from './CircusStrongMan';
